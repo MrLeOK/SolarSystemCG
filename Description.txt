@@ -1,0 +1,21 @@
+Name : Tran Phuoc Loc .
+
+ID : 18521012 .
+
+Idea : Making solar system that Sun being surrounded by other planet such as Mercury , Vernus , Earth , ....
+
+Appeal points : Making 3D Solar System that all planets is looking realistic and the light system make the solar system more real life .
+
+Refecltion points : Because of lack of experience and knowledge so I can't enable to make the planet rotate in real time , 
+so that I have to make it rotate in 1 point of time at the same time .
+
+Impression : My impression is while learning and making the project I found it very interesting in making CG and 3D . Okumura-sensei is very helpful , He talk very clearly and I very like him . 
+
+Suggestion : If I have more time to study with Sensei , I can make the project prettier , I want to make the planet rotate in real time to make it more realistic .
+
+The original source created a 3D earth with moon rotate around it . 
+
+Follow that idea My ingenuity is making a solar system base on that source code.
+
+Link source information : https://openprocessing.org/sketch/741001?fbclid=IwAR0CE_DCSLw5D-NYk_QaEuTb1nlrdttl7XmIEbdmPKnW5-xCt7inhgk-3y0
+
